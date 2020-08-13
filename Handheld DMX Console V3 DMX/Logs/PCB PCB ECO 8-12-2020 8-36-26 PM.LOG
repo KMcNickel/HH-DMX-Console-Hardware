@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DMX_N Pin=U10-6
+Removed Pin From Net: NetName=DMX_P Pin=U10-7
+Change Component Comment : Designator=R17 Old Comment=120R New Comment=DNP
+Added Pin To Net: NetName=DMX_P Pin=U10-6
+Added Pin To Net: NetName=DMX_N Pin=U10-7
