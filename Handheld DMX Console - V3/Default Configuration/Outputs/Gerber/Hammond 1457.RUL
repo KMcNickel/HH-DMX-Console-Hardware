@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Hammond 1457.CSPcbDoc
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Hammond 1457.CSPcbDoc
 RuleKind=ShortCircuit|RuleName=FFCShortCircuit|Scope=Board|Allowed=1
 RuleKind=Clearance|RuleName=FFCClearance|Scope=Board|Minimum=6.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00

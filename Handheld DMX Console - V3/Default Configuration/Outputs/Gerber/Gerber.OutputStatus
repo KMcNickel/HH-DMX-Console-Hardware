@@ -1,15 +1,15 @@
 [OutputStatus]
-OutputFileNames0=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GTL
-OutputFileNames1=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GBL
-OutputFileNames2=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GTO
-OutputFileNames3=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GTP
-OutputFileNames4=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GTS
-OutputFileNames5=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GBS
-OutputFileNames6=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GBP
-OutputFileNames7=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GBO
-OutputFileNames8=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.Outline
-OutputFileNames9=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.RUL
-OutputFileNames10=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.EXTREP
-OutputFileNames11=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.REP
+OutputFileNames0=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GTL
+OutputFileNames1=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GBL
+OutputFileNames2=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GTO
+OutputFileNames3=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GTP
+OutputFileNames4=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GTS
+OutputFileNames5=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GBS
+OutputFileNames6=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GBP
+OutputFileNames7=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.GBO
+OutputFileNames8=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.Outline
+OutputFileNames9=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.RUL
+OutputFileNames10=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.EXTREP
+OutputFileNames11=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\Gerber\Hammond 1457.REP
 Success=1
 HasRun=1

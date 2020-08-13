@@ -1,7 +1,7 @@
 [OutputStatus]
-OutputFileNames0=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\NC Drill\Hammond 1457-RoundHoles.TXT
-OutputFileNames1=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\NC Drill\Hammond 1457-SlotHoles.TXT
-OutputFileNames2=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\NC Drill\Hammond 1457.LDP
-OutputFileNames3=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console - V3\Default Configuration\Outputs\NC Drill\Hammond 1457.DRR
+OutputFileNames0=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\NC Drill\Hammond 1457-RoundHoles.TXT
+OutputFileNames1=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\NC Drill\Hammond 1457-SlotHoles.TXT
+OutputFileNames2=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\NC Drill\Hammond 1457.LDP
+OutputFileNames3=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Default Configuration\Outputs\NC Drill\Hammond 1457.DRR
 Success=1
 HasRun=1
