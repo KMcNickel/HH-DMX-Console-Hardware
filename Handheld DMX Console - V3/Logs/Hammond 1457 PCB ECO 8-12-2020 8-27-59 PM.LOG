@@ -1,0 +1,6 @@
+Change Component Library : Designator=P1 Old Library=Belfuse.IntLib New Library=Belfuse.SchLib
+Added Pin To Net: NetName=GND Pin=P1-G2
+Added Pin To Net: NetName=GND Pin=P1-G3
+Added Pin To Net: NetName=GND Pin=P1-G4
+Added Pin To Net: NetName=GND Pin=P1-G5
+Added Pin To Net: NetName=GND Pin=P1-G6
