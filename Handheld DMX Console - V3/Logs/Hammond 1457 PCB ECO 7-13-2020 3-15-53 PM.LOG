@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=Power Member=TP7
+Change Component Comment : Designator=R1 Old Comment=1M New Comment=1M 1%
+Change Component Comment : Designator=R2 Old Comment=221K New Comment=221K 1%
+Added Component: Designator=D?(FP-SOD123F-IPC_A)
+Added Pin To Net: NetName=BAT_IN Pin=D?-1
+Added Pin To Net: NetName=GND Pin=D?-2
+Added Pin To Net: NetName=BAT_IN Pin=U2-13
+Added Member To Class: ClassName=Power Member=Component D? BZT52H-C3V3,115

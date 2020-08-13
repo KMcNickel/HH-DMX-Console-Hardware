@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=TP7-1
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP3
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP4
+Added Component: Designator=TP1(TP-SM-C-100)
+Added Component: Designator=TP2(TP-SM-C-100)
+Added Pin To Net: NetName=VCC Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=ISOGND Pin=TP4-1
+Added Member To Class: ClassName=DMX Member=Component TP1 TP-SM-C-100
+Added Member To Class: ClassName=DMX Member=Component TP2 TP-SM-C-100

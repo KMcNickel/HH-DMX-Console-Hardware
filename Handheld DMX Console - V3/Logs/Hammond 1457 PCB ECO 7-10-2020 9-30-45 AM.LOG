@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=PWRON Pin=U1-6
+Added Pin To Net: NetName=T_NRST Pin=U1-13
+Added Pin To Net: NetName=PBSTAT Pin=U2-18
+Change Net Name : Old Net Name=PBSTAT New Net Name=NetU1_9
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Pin To Net: NetName=NetU1_6 Pin=U2-20
+Added Net: Name=NetU1_6

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=COL_A Pin=R3-1
+Removed Pin From Net: NetName=COL_B Pin=R3-2
+Removed Pin From Net: NetName=COL_C Pin=R3-3
+Removed Pin From Net: NetName=COL_D Pin=R3-4
+Added Pin To Net: NetName=COL_D Pin=R3-1
+Added Pin To Net: NetName=COL_C Pin=R3-2
+Added Pin To Net: NetName=COL_B Pin=R3-3
+Added Pin To Net: NetName=COL_A Pin=R3-4

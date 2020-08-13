@@ -1,0 +1,3 @@
+Added Component: Designator=TP7(TP-SM-C-100)
+Added Pin To Net: NetName=GND Pin=TP7-1
+Added Member To Class: ClassName=DMX Member=Component TP7 TP-SM-C-100

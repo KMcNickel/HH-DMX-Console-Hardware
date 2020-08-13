@@ -1,0 +1,6 @@
+Added Component: Designator=P?(NC5FAH)
+Added Pin To Net: NetName=ISOGND Pin=P?-1
+Added Pin To Net: NetName=DMX_N Pin=P?-2
+Added Pin To Net: NetName=DMX_P Pin=P?-3
+Added Pin To Net: NetName=NetC28_2 Pin=P?-G
+Added Member To Class: ClassName=DMX Member=Component P? NC5FAH

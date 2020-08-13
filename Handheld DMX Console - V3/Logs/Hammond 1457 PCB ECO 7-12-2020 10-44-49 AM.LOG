@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Added Component: Designator=J2(MOLX-52271-1279)
+Added Pin To Net: NetName=ROW_D Pin=J2-1
+Added Pin To Net: NetName=ROW_E Pin=J2-2
+Added Pin To Net: NetName=ROW_C Pin=J2-3
+Added Pin To Net: NetName=ROW_F Pin=J2-4
+Added Pin To Net: NetName=ROW_B Pin=J2-5
+Added Pin To Net: NetName=ROW_A Pin=J2-6
+Added Pin To Net: NetName=COL_D Pin=J2-7
+Added Pin To Net: NetName=COL_C Pin=J2-8
+Added Pin To Net: NetName=COL_B Pin=J2-9
+Added Pin To Net: NetName=COL_A Pin=J2-10
+Added Pin To Net: NetName=NetJ2_11 Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=GND Pin=J2-MP1
+Added Pin To Net: NetName=GND Pin=J2-MP2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ?_4 New Net Name=NetJ3_4
+Change Net Name : Old Net Name=NetJ?_5 New Net Name=NetJ3_5
+Added Member To Class: ClassName=User Interface Member=Component J2 52271-1279

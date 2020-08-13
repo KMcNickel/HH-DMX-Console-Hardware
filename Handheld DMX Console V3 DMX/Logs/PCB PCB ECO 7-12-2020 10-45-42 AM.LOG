@@ -1,0 +1,9 @@
+Added Component: Designator=J1(MOLX-52271-0579)
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=DMX_FC Pin=J1-3
+Added Pin To Net: NetName=DMX_TX Pin=J1-4
+Added Pin To Net: NetName=DMX_RX Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-MP1
+Added Pin To Net: NetName=GND Pin=J1-MP2
+Added Member To Class: ClassName=DMX Member=Component J1 52271-0579

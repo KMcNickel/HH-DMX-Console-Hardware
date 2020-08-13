@@ -1,0 +1,15 @@
+Added Component: Designator=TP8(TP-SM-C-100)
+Added Component: Designator=TP9(TP-SM-C-100)
+Added Component: Designator=TP10(TP-SM-C-100)
+Added Component: Designator=TP11(TP-SM-C-100)
+Added Component: Designator=TP12(TP-SM-C-100)
+Added Pin To Net: NetName=GND Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=TP10-1
+Added Pin To Net: NetName=GND Pin=TP11-1
+Added Pin To Net: NetName=GND Pin=TP12-1
+Added Member To Class: ClassName=Power Member=Component TP8 TP-SM-C-100
+Added Member To Class: ClassName=Power Member=Component TP9 TP-SM-C-100
+Added Member To Class: ClassName=Power Member=Component TP10 TP-SM-C-100
+Added Member To Class: ClassName=Power Member=Component TP11 TP-SM-C-100
+Added Member To Class: ClassName=Power Member=Component TP12 TP-SM-C-100

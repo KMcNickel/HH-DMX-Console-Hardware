@@ -1,0 +1,15 @@
+[OutputStatus]
+OutputFileNames0=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.GTL
+OutputFileNames1=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.GBL
+OutputFileNames2=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.GTO
+OutputFileNames3=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.GTP
+OutputFileNames4=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.GTS
+OutputFileNames5=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.GBS
+OutputFileNames6=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.GBP
+OutputFileNames7=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.GBO
+OutputFileNames8=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.Outline
+OutputFileNames9=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.RUL
+OutputFileNames10=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.EXTREP
+OutputFileNames11=C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console V3 DMX\Default Configuration\Outputs\Gerber\PCB.REP
+Success=1
+HasRun=1

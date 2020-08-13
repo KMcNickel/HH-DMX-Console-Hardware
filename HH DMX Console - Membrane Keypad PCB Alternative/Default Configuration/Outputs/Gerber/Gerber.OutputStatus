@@ -1,0 +1,13 @@
+[OutputStatus]
+OutputFileNames0=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.GTL
+OutputFileNames1=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.GBL
+OutputFileNames2=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.GTO
+OutputFileNames3=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.GTS
+OutputFileNames4=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.GBS
+OutputFileNames5=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.GBO
+OutputFileNames6=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.Outline
+OutputFileNames7=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.RUL
+OutputFileNames8=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.EXTREP
+OutputFileNames9=C:\Users\Public\Documents\Altium\Projects\HH DMX Console - Membrane Keypad PCB Alternative\Default Configuration\Outputs\Gerber\PCB.REP
+Success=1
+HasRun=1

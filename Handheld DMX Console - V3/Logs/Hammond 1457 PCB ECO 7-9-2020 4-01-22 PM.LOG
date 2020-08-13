@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=BAT_IN Pin=TP3-1
+Removed Pin From Net: NetName=NetR8_1 Pin=TP5-1
+Added Component: Designator=TP1(TP-SM-C-100)
+Added Component: Designator=TP2(TP-SM-C-100)
+Added Component: Designator=TP4(TP-SM-C-100)
+Added Component: Designator=TP6(TP-SM-C-100)
+Added Component: Designator=TP7(TP-SM-C-100)
+Added Pin To Net: NetName=HSO_VCC Pin=TP1-1
+Added Pin To Net: NetName=VMAX Pin=TP2-1
+Added Pin To Net: NetName=USB_IN Pin=TP3-1
+Added Pin To Net: NetName=VCC Pin=TP4-1
+Added Pin To Net: NetName=BAT_IN Pin=TP5-1
+Added Pin To Net: NetName=GND Pin=TP6-1
+Added Pin To Net: NetName=NetR8_1 Pin=TP7-1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=BAT_DIV
+Added Member To Class: ClassName=Power Member=Component TP1 TP-SM-C-100
+Added Member To Class: ClassName=Power Member=Component TP2 TP-SM-C-100
+Added Member To Class: ClassName=Power Member=Component TP4 TP-SM-C-100
+Added Member To Class: ClassName=Power Member=Component TP6 TP-SM-C-100
+Added Member To Class: ClassName=Power Member=Component TP7 TP-SM-C-100

@@ -1,0 +1,6 @@
+Added Component: Designator=C1(CAPC1210(3225)100_L)
+Added Pin To Net: NetName=ISOGND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=P1-G
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=DMX Member=Component C1 DNP
