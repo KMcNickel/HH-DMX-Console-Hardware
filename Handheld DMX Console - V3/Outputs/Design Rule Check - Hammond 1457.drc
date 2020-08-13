@@ -1,0 +1,67 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console - V3\Hammond 1457.CSPcbDoc
+Date     : 8/12/2020
+Time     : 7:16:10 PM
+
+Processing Rule : Minimum Annular Ring (Minimum=5.118mil) (All)
+Rule Violations :0
+
+Processing Rule : Unpoured Polygon (Allow unpoured: False)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=25mil) (Preferred=8mil) (All)
+   Violation between Width Constraint: Arc (2404.409mil,4552.126mil)  Top Layer
+   Violation between Width Constraint: Arc (2205.591mil,4552.126mil)  Top Layer
+   Violation between Width Constraint: Arc (2205.591mil,4317.874mil)  Top Layer
+   Violation between Width Constraint: Arc (2404.409mil,4317.874mil)  Top Layer
+   Violation between Width Constraint: Arc (2404.409mil,4317.874mil)  Top Layer
+   Violation between Width Constraint: Track (2404.409mil,4463.543mil)(2404.409mil,4550.158mil)  Top Layer
+   Violation between Width Constraint: Track (2205.591mil,4463.543mil)(2205.591mil,4550.158mil)  Top Layer
+   Violation between Width Constraint: Track (2205.591mil,4319.842mil)(2205.591mil,4406.457mil)  Top Layer
+   Violation between Width Constraint: Track (2404.409mil,4319.842mil)(2404.409mil,4334.528mil)  Top Layer
+   Violation between Width Constraint: Track (2404.409mil,4334.528mil)(2404.409mil,4337.559mil)  Top Layer
+   Violation between Width Constraint: Track (2404.409mil,4337.559mil)(2404.409mil,4406.457mil)  Top Layer
+Rule Violations :11
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (InNet('GND')),(OnLayer('Keep-Out Layer'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (InNet('GND')),(OnLayer('Keep-Out Layer'))
+Rule Violations :0
+
+
+Violations Detected : 11
+Time Elapsed        : 00:00:00
