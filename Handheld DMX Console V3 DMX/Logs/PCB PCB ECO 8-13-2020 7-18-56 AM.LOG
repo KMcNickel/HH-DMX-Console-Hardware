@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DMX_P Pin=U2-1
+Removed Pin From Net: NetName=DMX_N Pin=U2-2
+Added Pin To Net: NetName=DMX_N Pin=U2-1
+Added Pin To Net: NetName=DMX_P Pin=U2-2
