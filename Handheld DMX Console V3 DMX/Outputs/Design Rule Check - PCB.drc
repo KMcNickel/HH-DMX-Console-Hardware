@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Projects\Handheld DMX Console Hardware V3\Handheld DMX Console V3 DMX\PCB.CSPcbDoc
 Date     : 8/12/2020
-Time     : 8:45:22 PM
+Time     : 9:00:58 PM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (InNet('GND')),(OnLayer('Keep-Out Layer'))
 Rule Violations :0
@@ -25,7 +25,9 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=5.118mil) (All)
-Rule Violations :0
+   Violation between Minimum Annular Ring (5mil < 5.118mil) : Via (2690mil,3675mil) Top Layer to Bottom Layer
+   Violation between Minimum Annular Ring (5mil < 5.118mil) : Via (2645mil,3880mil) Top Layer to Bottom Layer
+Rule Violations :2
 
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
 Rule Violations :0
@@ -58,5 +60,5 @@ Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=75mil) (I
 Rule Violations :0
 
 
-Violations Detected : 0
-Time Elapsed        : 00:00:01
+Violations Detected : 2
+Time Elapsed        : 00:00:00
