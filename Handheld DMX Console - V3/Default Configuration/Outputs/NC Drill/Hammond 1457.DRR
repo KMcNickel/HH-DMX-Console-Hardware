@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: Hammond 1457.CSPcbDoc   8/13/2020  7:24:31 AM
+NCDrill File Report For: Hammond 1457.CSPcbDoc   8/15/2020  3:09:09 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,13 +9,13 @@ ASCII SlotHoles File : Hammond 1457-SlotHoles.TXT
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
 T1        7.87mil (0.1999mm)       Round          4                0.13 Inch (3.30 mm)
-T2        10mil (0.254mm)          Round          486              66.82 Inch (1697.15 mm)
+T2        10mil (0.254mm)          Round          486              64.07 Inch (1627.32 mm)
 T3        15.75mil (0.40005mm)     Round          14               0.44 Inch (11.21 mm)
-T4        23.62mil (0.59995mm)     Slot           4                289.31 Inch (7348.45 mm)
+T4        23.62mil (0.59995mm)     Slot           4                289.31 Inch (7348.49 mm)
 T5        39.37mil (1mm)           Round          20               2.30 Inch (58.42 mm)
 T6        51.18mil (1.29997mm)     Round          2                0.10 Inch (2.54 mm)
 T7        94.49mil (2.40005mm)     Round          4         NPTH   6.18 Inch (156.90 mm)
 ---------------------------------------------------------------------------
-Totals                                            534              365.27 Inch (9277.97 mm)
+Totals                                            534              362.53 Inch (9208.18 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:00

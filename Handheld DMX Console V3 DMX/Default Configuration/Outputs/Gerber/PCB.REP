@@ -48,8 +48,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
+    D10
     D12
-    D14
     D31
     D32
     D33
@@ -64,8 +64,8 @@ Generating : Top Overlay
 
 
 Used DCodes :
+    D10
     D11
-    D14
     D35
     D36
     D37
