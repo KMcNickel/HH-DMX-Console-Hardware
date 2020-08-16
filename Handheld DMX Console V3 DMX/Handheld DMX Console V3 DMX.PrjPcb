@@ -91,10 +91,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Outputs\Design Rule Check - PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Default Configuration\Outputs\DRC\PCB.html
 DItemRevisionGUID=
 

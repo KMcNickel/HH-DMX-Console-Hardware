@@ -91,62 +91,58 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Outputs\Design Rule Check - PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Default Configuration\Outputs\NC Drill\PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Default Configuration\Outputs\NC Drill\PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.Outline
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Default Configuration\Outputs\Gerber\PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Default Configuration\Outputs\ExportSTEP\PCB.step
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Default Configuration\Outputs\NC Drill\PCB.TXT
 DItemRevisionGUID=
 
